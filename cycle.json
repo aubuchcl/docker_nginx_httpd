@@ -83,7 +83,7 @@
         "integrations": null
       },
       "volumes": []
-    },
-    "annotations": {}
-  }
+    }
+  },
+  "annotations": {}
 }
