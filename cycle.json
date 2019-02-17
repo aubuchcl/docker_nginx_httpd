@@ -17,7 +17,7 @@
         "source": {
           "repo": {
             "dir": "/nginx",
-            "build_file": "/Dockerfile",
+            "build_file": "Dockerfile",
             "url": "https://github.com/aubuchcl/docker_nginx_httpd.git"
           }
         }
@@ -57,7 +57,7 @@
         "source": {
           "repo": {
             "dir": "/apache",
-            "build_file": "/Dockerfile",
+            "build_file": "Dockerfile",
             "url": "https://github.com/aubuchcl/docker_nginx_httpd.git"
           }
         }
