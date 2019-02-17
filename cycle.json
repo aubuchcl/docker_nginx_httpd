@@ -13,7 +13,7 @@
     "nginx": {
       "name": "nginx",
       "image": {
-        "name": "nginx",
+        "name": "nginx:alpine",
         "source": {
           "repo": {
             "dir": "/nginx",
@@ -56,7 +56,7 @@
     "httpd": {
       "name": "httpd",
       "image": {
-        "name": "httpd",
+        "name": "httpd:latest",
         "source": {
           "repo": {
             "dir": "/apache",
